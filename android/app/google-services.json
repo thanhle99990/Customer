@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "158583261162",
+    "project_id": "city-2844b",
+    "storage_bucket": "city-2844b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158583261162:android:6653acdfaeac3ba5775493",
+        "android_client_info": {
+          "package_name": "com.apptot.cargodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158583261162-oemd82c3flmrvqohpslge5evt0k0o1dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbhxRABf6h8ZAtpNWSo1mLdhYkZEcLbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158583261162-oemd82c3flmrvqohpslge5evt0k0o1dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158583261162:android:d3dd11d4271e20cf775493",
+        "android_client_info": {
+          "package_name": "com.apptot.citydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158583261162-oemd82c3flmrvqohpslge5evt0k0o1dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbhxRABf6h8ZAtpNWSo1mLdhYkZEcLbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158583261162-oemd82c3flmrvqohpslge5evt0k0o1dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158583261162:android:fae0833917b6d56f775493",
+        "android_client_info": {
+          "package_name": "com.apptot.citytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158583261162-immar67pb97it4kvq0lk6rsn4unhrken.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apptot.citytaxi",
+            "certificate_hash": "3fb2d2cd366205feb07191a8200aeeb42521cad2"
+          }
+        },
+        {
+          "client_id": "158583261162-oemd82c3flmrvqohpslge5evt0k0o1dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbhxRABf6h8ZAtpNWSo1mLdhYkZEcLbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158583261162-oemd82c3flmrvqohpslge5evt0k0o1dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
